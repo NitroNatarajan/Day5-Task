@@ -353,26 +353,3 @@
 
 
 
-
-
-
-
-
-// let x = ["a","b","c","d"];
-// let y = 2;
-// for (let i=0; i<2;i++){
-//       x.unshift(x.pop());
-// }
-// console.log(x);
-
-// let x = ["a","b","c","d"];
-// let y = ["d","a","b","c"];
-// for(let i=0; i<x.length; i++){
-//     if (x.join()===y.join()){
-//       console.log(i);
-//       break;
-//     }
-//     else{
-//       x.unshift(x.pop());
-//     }
-// }
